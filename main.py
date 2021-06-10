@@ -32,3 +32,4 @@ mostrarPantalla(filas,matriz2)
 
 C = np.matmul(matriz1, matriz2)
 print("resultado= \n", C)
+##fin

@@ -17,7 +17,6 @@ for i in range(filas):
     matriz1[i].append(valor)
 print() 
 mostrarPantalla(filas,matriz1)
-print(matriz1)    
 
 print("Matriz numero 2")
 filas=int(input("Ingrese filas de la matriz: "))
